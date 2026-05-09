@@ -12,7 +12,7 @@ A solo-developed sandbox exploration game inspired by Astroneer and Outer Wilds.
 Main gameplay mechanics: Terraforming, Building, Exploration, Survival.
 
 📅 Development started: February 20, 2026  
-⚙️ Engine: Unreal Engine 5.5  
+⚙️ Engine: Unreal Engine 5.7  
 
 ---
 
