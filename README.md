@@ -6,7 +6,8 @@ A collection of my Unreal Engine projects/plugins focused on **game systems** an
 
 ## 🎮 Projects
 
-### 🌍 [Planet Project](https://github.com/tihonovgena/Portfolio_PlanetProject)
+### 🌍 [Lost signal](https://github.com/tihonovgena/Portfolio_PlanetProject)
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/e0cb7c74-7098-43fa-a91c-59964a51d2a1" />
 
 A solo-developed sandbox exploration game inspired by Astroneer and Outer Wilds.  
 Main gameplay mechanics: Terraforming, Building, Exploration, Survival.
