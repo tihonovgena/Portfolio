@@ -7,6 +7,23 @@ A collection of my Unreal Engine paid and independed projects/plugins.
 
 ---
 
+## 🎮 Projects
+
+## May 2017 - Sep 2020
+### Battle space 
+It is unannounced third-person survival shooter.
+Repsonosobilities:
+- Implemention core gameplay features applying component based and data driven approches.
+- Integration UI, animation and multiplayer support with simple prediction system into maden gameplay.
+- Integration project with Playfab service
+
+Ownership:
+- Inventory system, resource gathering system, combat mechanics (shooting) with different types of weapons, jetpack flight system
+
+<img width="854" height="480" alt="BattleSpaceMechanics" src="https://github.com/user-attachments/assets/25ff9c5e-a81e-493d-8aaf-e004dcb88f21" />
+
+---
+
 ## 🎮 Independed Projects
 
 Development started: February 20, 2026 - Present 
