@@ -22,6 +22,13 @@ Ownership:
 
 <img width="854" height="480" alt="BattleSpaceMechanics" src="https://github.com/user-attachments/assets/25ff9c5e-a81e-493d-8aaf-e004dcb88f21" />
 
+### More video
+[Gameplay in progress](https://youtu.be/uvKjRiQa2-U)
+
+[Gameplay in progress](https://youtu.be/5UL-4K1_nmE) 
+
+[Gameplay in progress](https://youtu.be/YeeXKiF1_ek) 
+
 ---
 
 ## 🎮 Independed Projects
