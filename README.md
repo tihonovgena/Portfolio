@@ -13,7 +13,7 @@ A collection of my Unreal Engine paid and independed projects/plugins.
 ### Battle space 
 It is unannounced third-person survival shooter.
 
-Repsonosobilities:
+Responsibilities:
 - Implemention core gameplay features applying component based and data driven approches.
 - Integration UI, animation and multiplayer support with simple prediction system into maden gameplay.
 - Integration project with Playfab service
