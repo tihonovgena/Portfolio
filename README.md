@@ -12,6 +12,7 @@ A collection of my Unreal Engine paid and independed projects/plugins.
 ## May 2017 - Sep 2020
 ### Battle space 
 It is unannounced third-person survival shooter.
+
 Repsonosobilities:
 - Implemention core gameplay features applying component based and data driven approches.
 - Integration UI, animation and multiplayer support with simple prediction system into maden gameplay.
