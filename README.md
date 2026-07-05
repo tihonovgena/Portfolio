@@ -12,6 +12,7 @@ A collection of my Unreal Engine paid and independed projects/plugins.
 ## Dec 2020 - Mar 2024
 ### Nimble Blade Studio doo 
 Fencing PVE/PVP mobile simulator released on Google Play. Joined the studio at an early stage as the General Unreal Engine developer.
+
 [Google play](https://play.google.com/store/apps/details?id=com.NimbleBladeStudio.CasualBlade&hl=en)
 
 Responsibilities:
