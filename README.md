@@ -48,7 +48,7 @@ Responsibilities:
 Ownerships:
 - Inventory system, resource gathering system, combat mechanics (shooting) with different types of weapons, jetpack flight system
 
-<img width="854" height="480" alt="BattleSpaceMechanics" src="https://github.com/user-attachments/assets/25ff9c5e-a81e-493d-8aaf-e004dcb88f21" />
+<img width="854" height="480" alt="BattleSpaceMechanics" src="src/BattleSpaceMechanics.webp" />
 
 ### More video
 [Gameplay in progress](https://youtu.be/uvKjRiQa2-U)
