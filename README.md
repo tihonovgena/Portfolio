@@ -9,6 +9,33 @@ A collection of my Unreal Engine paid and independed projects/plugins.
 
 ## 🎮 Experience
 
+## Dec 2020 - Mar 2024
+### Nimble Blade Studio doo 
+Fencing PVE/PVP mobile simulator released on Google Play. Joined the studio at an early stage as the General Unreal Engine developer.
+[Google play](https://play.google.com/store/apps/details?id=com.NimbleBladeStudio.CasualBlade&hl=en)
+
+Responsibilities:
+- Creation MVP of fencing simulator for PC and Mobile
+- Implemented gameplay mechanics with server-authoritative replication and client-side prediction.
+- Implementation UI systems and wwidgets.
+- Integration project with Google services.
+- Supported post-launch development including live feature updates, gameplay balancing, bug fixing, and A/B feature testing.
+
+Ownerships:
+- Custom movement system, robot constructor system, UI manager system, story and quest system
+
+
+
+<img width="854" height="480" alt="CasualBladeGameplay" src="src/CasualBladeGameplay.webp" />
+
+### More video
+[Official gameplay](https://youtu.be/kx4iDcl2Bfk?si=bYcD8LU3i-neCVLs)
+[Official gameplay](https://youtu.be/NRIwleUP2oQ?si=8mMnaE9sopgt6m3K) 
+
+---
+
+## 🎮 Experience
+
 ## May 2017 - Sep 2020
 ### Battle space 
 It is unannounced third-person survival shooter.
@@ -18,7 +45,7 @@ Responsibilities:
 - Integration UI, animation and multiplayer support with simple prediction system into maden gameplay.
 - Integration project with Playfab service
 
-Ownership:
+Ownerships:
 - Inventory system, resource gathering system, combat mechanics (shooting) with different types of weapons, jetpack flight system
 
 <img width="854" height="480" alt="BattleSpaceMechanics" src="https://github.com/user-attachments/assets/25ff9c5e-a81e-493d-8aaf-e004dcb88f21" />
