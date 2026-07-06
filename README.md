@@ -1,5 +1,5 @@
 # Portfolio
-A collection of my Unreal Engine paid and independed projects/plugins.
+A collection of my Unreal Engine paid and independed projects/plugins
 
 **PORTFOLIO IN UPDATING, FOR MORE INFORMATION ABOUT ME AND MY EXPERIENCE PLEASE VISIT THE LINKEDIN**
 
@@ -11,14 +11,14 @@ A collection of my Unreal Engine paid and independed projects/plugins.
 
 ## Jun 2024 - Mar 2026
 ### Frozen Lake Studios 
-Shipped 1 PC and 2 VR Unannounced educational projects for enterpises.
+Shipped 1 PC and 2 VR Unannounced educational projects for enterpises
 
 Responsibilities:
-- Refactore legacy Blueprint-heavy systems into modular C++ gameplay components, to improve maintainability and reducing runtime overhead, resulting in up to ~20% FPS improvement in gameplay-heavy scenarios. 
-- Design and implemention a runtime world editor supporting network replication and saving to disk.
-- Optimization networking of open-world multiplayer sessions.
-- Develope internal tooling and editor utilities to streamline designer workflows and accelerate content iteration.
-- Investigate and resolve gameplay crashes, replication issues, and runtime performance bottlenecks during production development.
+- Refactore legacy Blueprint-heavy systems into modular C++ gameplay components, to improve maintainability and reducing runtime overhead, resulting in up to ~20% FPS improvement in gameplay-heavy scenarios
+- Design and implemention a runtime world editor supporting network replication and saving to disk
+- Optimization networking of open-world multiplayer sessions
+- Develope internal tooling and editor utilities to streamline designer workflows and accelerate content iteration
+- Investigate and resolve gameplay crashes, replication issues, and runtime performance bottlenecks during production development
 
 Ownerships:
 - Runtime world editor, character editor, VR physical constructor system, educational step by step instructions system
@@ -29,7 +29,7 @@ Ownerships:
 
 ## Dec 2020 - Mar 2024
 ### Nimble Blade Studio doo 
-Fencing PVE/PVP mobile simulator released on Google Play. Joined the studio at an early stage as the General Unreal Engine developer.
+Fencing PVE/PVP mobile simulator released on Google Play. Joined the studio at an early stage as the General Unreal Engine developer
 
 [Casual Blade - Shipped](https://play.google.com/store/apps/details?id=com.NimbleBladeStudio.CasualBlade&hl=en)
 
@@ -37,11 +37,11 @@ Fencing PVE/PVP mobile simulator released on Google Play. Joined the studio at a
 
 Responsibilities:
 - Creation MVP of fencing simulator for PC and Mobile
-- Implemented gameplay mechanics with server-authoritative replication and client-side prediction.
-- Implementation UI systems and wwidgets.
-- Integration project with Google services.
-- Supported post-launch development including live feature updates, gameplay balancing, bug fixing, and A/B feature testing.
-- Optimized mobile performance by refactoring animation systems and implementing asynchronous asset loading, reducing startup time from 40s to 10s on low-end devices.
+- Implemented gameplay mechanics with server-authoritative replication and client-side prediction
+- Implementation UI systems and wwidgets
+- Integration project with Google services
+- Supported post-launch development including live feature updates, gameplay balancing, bug fixing, and A/B feature testing
+- Optimized mobile performance by refactoring animation systems and implementing asynchronous asset loading, reducing startup time from 40s to 10s on low-end devices
 
 Ownerships:
 - Custom movement system, robot constructor system, UI manager system, story and quest system
@@ -57,11 +57,11 @@ Ownerships:
 
 ## May 2019 - Sep 2020
 ### Battle space 
-It is unannounced third-person survival shooter.
+It is unannounced third-person survival shooter
 
 Responsibilities:
-- Implementation core gameplay features applying component based and data driven approaches.
-- Integration UI, animation and multiplayer support with simple prediction system into maiden gameplay.
+- Implementation core gameplay features applying component based and data driven approaches
+- Integration UI, animation and multiplayer support with simple prediction system into maiden gameplay
 - Integration project with Playfab service
 
 Ownerships:
@@ -86,9 +86,9 @@ Engine: Unreal Engine 5.7
 
 ### [Lost in Abyss](https://github.com/tihonovgena/Portfolio_PlanetProject)
 
-A solo-developed exploration advanture game inspired by Astroneer and Outer Wilds and such titles as Made in Abyss, Dungeon delicious.
-Mix of Death stranding, Peak and Cairn mechanics.
-Main gameplay mechanics: Path creation, Exploration, Survival.
+A solo-developed exploration advanture game inspired by Astroneer and Outer Wilds and such titles as Made in Abyss, Dungeon delicious
+Mix of Death stranding, Peak and Cairn mechanics
+Main gameplay mechanics: Path creation, Exploration, Survival
 
 ---
 
@@ -102,7 +102,7 @@ Engine: 5.3 and 5.5 – 5.7
 Version: 1.0
 
 Universal Planting System for Any Game
-Whether you're building a farm simulator or any other gameplay with dynamic plant growth, this modular system is an essential foundation.
+Whether you're building a farm simulator or any other gameplay with dynamic plant growth, this modular system is an essential foundation
 Flexible & Modular Design
 
 [Available on Fab](https://www.fab.com/listings/1aac4bc0-9ab2-490d-9af7-259619b30580)
@@ -116,6 +116,6 @@ Engine: 5.2 – 5.7
 
 Version: 1.0
 
-The Player Action Binder offers a streamlined method to associate player actions with InputActions across different pawns. It eliminates the need to write bindings directly in your C++ code or clutter your pawn classes with numerous nodes. You can create objects for each action you wish to implement, such as Move, Jump, Open Menu, Enter Vehicle, and more.
+The Player Action Binder offers a streamlined method to associate player actions with InputActions across different pawns. It eliminates the need to write bindings directly in your C++ code or clutter your pawn classes with numerous nodes. You can create objects for each action you wish to implement, such as Move, Jump, Open Menu, Enter Vehicle, and more
 
 [Available on Fab](https://www.fab.com/listings/ea2337e2-6dd0-41fb-be13-6ae30b16ddc8)
