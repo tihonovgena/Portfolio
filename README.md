@@ -23,6 +23,7 @@ Responsibilities:
 - Implementation UI systems and wwidgets.
 - Integration project with Google services.
 - Supported post-launch development including live feature updates, gameplay balancing, bug fixing, and A/B feature testing.
+- Optimized mobile performance by refactoring animation systems and implementing asynchronous asset loading, reducing startup time from 40s to 10s on low-end devices.
 
 Ownerships:
 - Custom movement system, robot constructor system, UI manager system, story and quest system
@@ -40,13 +41,13 @@ Ownerships:
 
 ## 🎮 Experience
 
-## May 2017 - Sep 2020
+## May 2019 - Sep 2020
 ### Battle space 
 It is unannounced third-person survival shooter.
 
 Responsibilities:
-- Implemention core gameplay features applying component based and data driven approches.
-- Integration UI, animation and multiplayer support with simple prediction system into maden gameplay.
+- Implementation core gameplay features applying component based and data driven approaches.
+- Integration UI, animation and multiplayer support with simple prediction system into maiden gameplay.
 - Integration project with Playfab service
 
 Ownerships:
