@@ -1,4 +1,4 @@
-# 👨‍💻 Portfolio
+# Portfolio
 A collection of my Unreal Engine paid and independed projects/plugins.
 
 **PORTFOLIO IN UPDATING, FOR MORE INFORMATION ABOUT ME AND MY EXPERIENCE PLEASE VISIT THE LINKEDIN**
@@ -7,7 +7,7 @@ A collection of my Unreal Engine paid and independed projects/plugins.
 
 ---
 
-## 🎮 Experience
+## Experience
 
 ## Jun 2024 - Mar 2026
 ### Frozen Lake Studios 
@@ -78,7 +78,7 @@ Ownerships:
 
 ---
 
-## 🎮 Independed Projects
+## Independed Projects
 
 Development started: February 20, 2026 - Present 
 
@@ -92,7 +92,7 @@ Main gameplay mechanics: Path creation, Exploration, Survival.
 
 ---
 
-## 🧩 Plugins & Systems
+## Plugins & Systems
 
 ### [Universal Planting System](https://github.com/tihonovgena/Planting-system)
 Shipped: 8 Aug 2026 
@@ -109,7 +109,7 @@ Flexible & Modular Design
 
 ---
 
-### 🎮 [Player Action Binder](https://github.com/tihonovgena/Player-Action-Binder)
+### [Player Action Binder](https://github.com/tihonovgena/Player-Action-Binder)
 Shipped: 3 Sep 2024 
 
 Engine: 5.2 – 5.7
