@@ -9,6 +9,24 @@ A collection of my Unreal Engine paid and independed projects/plugins.
 
 ## 🎮 Experience
 
+## Jun 2024 - Mar 2026
+### Frozen Lake Studios 
+Shipped 1 PC and 2 VR Unannounced educational projects for enterpises.
+
+Responsibilities:
+- Refactore legacy Blueprint-heavy systems into modular C++ gameplay components, to improve maintainability and reducing runtime overhead, resulting in up to ~20% FPS improvement in gameplay-heavy scenarios. 
+- Design and implemention a runtime world editor supporting network replication and saving to disk.
+- Optimization networking of open-world multiplayer sessions.
+- Develope internal tooling and editor utilities to streamline designer workflows and accelerate content iteration.
+- Investigate and resolve gameplay crashes, replication issues, and runtime performance bottlenecks during production development.
+
+Ownerships:
+- Runtime world editor, character editor, VR physical constructor system, educational step by step instructions system
+
+<img width="854" height="480" alt="CasualBladeGameplay" src="src/RuntimeWorldEditor.webp" />
+
+---
+
 ## Dec 2020 - Mar 2024
 ### Nimble Blade Studio doo 
 Fencing PVE/PVP mobile simulator released on Google Play. Joined the studio at an early stage as the General Unreal Engine developer.
@@ -28,8 +46,6 @@ Responsibilities:
 Ownerships:
 - Custom movement system, robot constructor system, UI manager system, story and quest system
 
-
-
 <img width="854" height="480" alt="CasualBladeGameplay" src="src/CasualBladeGameplay.webp" />
 
 ### More video
@@ -38,8 +54,6 @@ Ownerships:
 [Official gameplay](https://youtu.be/NRIwleUP2oQ?si=8mMnaE9sopgt6m3K) 
 
 ---
-
-## 🎮 Experience
 
 ## May 2019 - Sep 2020
 ### Battle space 
