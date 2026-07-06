@@ -13,7 +13,9 @@ A collection of my Unreal Engine paid and independed projects/plugins.
 ### Nimble Blade Studio doo 
 Fencing PVE/PVP mobile simulator released on Google Play. Joined the studio at an early stage as the General Unreal Engine developer.
 
-[Google play](https://play.google.com/store/apps/details?id=com.NimbleBladeStudio.CasualBlade&hl=en)
+[Casual Blade - Shipped](https://play.google.com/store/apps/details?id=com.NimbleBladeStudio.CasualBlade&hl=en)
+
+[Nimble Blade - MVP](https://nimble-blade.itch.io/game)
 
 Responsibilities:
 - Creation MVP of fencing simulator for PC and Mobile
