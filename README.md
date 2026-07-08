@@ -24,6 +24,7 @@ Ownerships:
 - Runtime world editor, character editor, VR physical constructor system, educational step by step instructions system
 
 <img width="854" height="480" alt="CasualBladeGameplay" src="src/RuntimeWorldEditor.webp" />
+<img width="854" height="480" alt="CasualBladeGameplay" src="src/StepByStepScenarios.webp" />
 
 ---
 
