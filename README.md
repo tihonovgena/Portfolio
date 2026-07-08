@@ -1,13 +1,26 @@
 # Portfolio
 A collection of my Unreal Engine paid and independed projects/plugins
 
-**PORTFOLIO IN UPDATING, FOR MORE INFORMATION ABOUT ME AND MY EXPERIENCE PLEASE VISIT THE LINKEDIN**
-
 [Linkedin](https://www.linkedin.com/in/tihonovgena-gamedeveloper/)
 
 ---
 
 ## Experience
+
+## Aug 2025 - Mar 2026
+### Rhea Games 
+Implememnt MVP for PC game
+
+Responsibilities:
+- Developing rapidly MVP of Cat Craft with design and implementation of modular gameplay systems using a data-driven architecture.
+- Collaborated with production and design teams on feature scoping, task estimation, and implementation planning. 
+
+Ownerships:
+- Planting system, Cafe Manager system, Travel system, Quest systemm, Cat Crafting system
+
+<img width="854" height="480" alt="CasualBladeGameplay" src="src/CatCraftMVP.webp" />
+
+---
 
 ## Jun 2024 - Mar 2026
 ### Frozen Lake Studios 
